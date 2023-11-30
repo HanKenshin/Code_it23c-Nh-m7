@@ -1,0 +1,77 @@
+.boxsignup{
+    width: 500px;
+    height: 700px;
+    background: #FFFFFF;
+   
+    margin-left: 25%;
+
+}
+.bannersignup{
+    width: 87px;
+    height: 36px;
+    top: 10px;
+    left: 140px;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;  
+    margin-left: 380px;  
+}
+.boxinputusername{
+    width: 350px;
+    height: 48px;
+    top: 203px;
+    left: 35px;
+    border-radius: 10px;
+    border: 1px solid #00000066;
+   margin-top: 7%;
+   margin-left: 50%;
+}
+.boxinputemail{
+    width: 350px;
+    height: 48px;
+    top: 203px;
+    left: 35px;
+    border-radius: 10px;
+    border: 1px solid #00000066;
+    align-content: space-between;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+.boxinputnumberphone{
+    width: 350px;
+    height: 48px;
+    top: 203px;
+    left: 35px;
+    border-radius: 10px;
+    border: 1px solid #00000066;
+    align-content: space-between;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+.boxinputpassword{
+    width: 350px;
+    height: 48px;
+    top: 203px;
+    left: 35px;
+    border-radius: 10px;
+    border: 1px solid #00000066;
+    align-content: space-between;
+    margin-top: 7%;
+    margin-left: 50%;
+    
+}
+.boxsubmit{
+    width: 350px;
+    height: 48px;
+    top: 203px;
+    border-radius: 10px;
+    border: 1px solid #00000066;
+    align-content: center;
+    margin-top: 7%;
+    margin-left: 50%;
+    background-color: blue;
+    
+    
+}
